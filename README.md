@@ -1,87 +1,43 @@
-# 📊 Placement Prediction Using Machine Learning
+🩺 Diabetes Prediction
+This project focuses on predicting whether a person is diabetic using Machine Learning techniques based on medical attributes.
 
----
+📌 Problem Statement
+Diabetes is a serious and growing health concern worldwide.
+The goal of this project is to build a machine learning model that accurately predicts whether a person is diabetic.
 
-## 👩‍💻 Author
-**Saniya Shaikh**
+📊 Dataset
+• Name: Pima Indians Diabetes Dataset
+• Source: Kaggle
+• Link: https://www.kaggle.com/code/saniyashaikh1400/diabetes-prediction
 
----
+• Description:
+The dataset contains medical attributes such as Glucose, BMI, Age, Insulin, and Blood Pressure.
+The target variable indicates whether a person is diabetic (1) or non-diabetic (0).
 
-## 📌 Project Overview
-This project focuses on predicting whether a student will be placed or not using Machine Learning techniques.  
-It uses academic performance data and work experience to build a classification model.
+⚙️ Technologies Used
+• Python
+• NumPy
+• Pandas
+• Matplotlib
+• Seaborn
+• Scikit-learn
 
----
+🧠 Machine Learning Algorithm
+• Logistic Regression
 
-## 🎯 Problem Statement
-The objective of this project is to develop a machine learning model that predicts student placement based on academic performance and other relevant factors.
+📈 Results
+The Logistic Regression model achieved good classification accuracy.
+Performance was evaluated using Precision, Recall, F1-score, and Confusion Matrix.
 
----
-
-## 📂 Dataset Description
-The dataset contains student-related features such as:
-- SSC Percentage  
-- HSC Percentage  
-- Degree Percentage  
-- Employability Test Score  
-- MBA Percentage  
-- Work Experience  
-- Placement Status (Target Variable)  
-
----
-
-## ⚙️ Technologies Used
-- Python  
-- Pandas  
-- NumPy  
-- Seaborn  
-- Matplotlib  
-- Scikit-learn  
-
----
-
-## 📊 Project Workflow
-1. Data Collection  
-2. Data Preprocessing  
-3. Exploratory Data Analysis (EDA)  
-4. Feature Selection  
-5. Model Building (Logistic Regression)  
-6. Model Evaluation  
-7. Prediction  
-
----
-
-## 📈 Model Used
-- Logistic Regression  
-- K-Nearest Neighbors (KNN)  
-
----
-
-## 📉 Evaluation Metrics
-- Confusion Matrix  
-- Classification Report  
-- Accuracy Score  
-
----
-
-## 🔮 Prediction
-The model predicts whether a student will be:
-- Placed  
-- Not Placed  
-
----
-
-## 📸 Output
-(Add screenshots here if available)
-
----
-
-## 🚀 Future Scope
-- Improve accuracy using advanced models  
-- Deploy as a web application  
-- Add more features for better prediction  
-
----
-
-## ⭐ Conclusion
-This project demonstrates how machine learning can be applied to predict student placement and support decision-making.
+🚀 How to Run the Project
+🌐 Run via Kaggle
+Open the Kaggle Notebook link.
+Click Run All to execute all cells.
+💻 Run Locally
+Clone the repository.
+Install required libraries.
+Open the .ipynb file in Jupyter Notebook.
+Run all cells.
+👩‍💻 Author
+Saniya Shaikh
+3rd Year Engineering – AI & DS
